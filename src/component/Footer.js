@@ -7,7 +7,6 @@ const Lists = styled.li`
     color: #ff0000;
   }
 `;
-
 const List = styled.ul`
   height: 20vh;
   display: flex;
@@ -17,7 +16,6 @@ const List = styled.ul`
   font-size: 2rem;
   background-color: pink;
 `;
-
 function Header() {
   return (
     <List>
